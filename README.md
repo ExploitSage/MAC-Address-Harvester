@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 source venv/bin/activate
 sudo airmon-ng start <interface>
-sudo python macharvest_graph.py [OPTIONS]
+sudo python macharvester.py [OPTIONS]
 sudo airmon-ng stop <interface>
 ```
 
