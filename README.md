@@ -3,8 +3,8 @@ Python Script to Sniff Mac Addresses from captured Wifi Packets and Graph them i
 
 ## Installation
 ```
-git clone git@github.com:gustavemichel/mac-address-harvester.git
-cd mac-address-harvester/
+git clone git@github.com:gurustave/MAC-Address-Harvester.git
+cd MAC-Address-Harvester/
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
